@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Favour Ojo'
-theme = "hugo-PaperMod-theme"
+theme = "hugo-PaperMod"
