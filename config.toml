@@ -2,3 +2,58 @@ baseURL = 'https://research-website.netlify.app/'
 languageCode = 'en-us'
 title = 'Favour Ojo'
 theme = "hugo-PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+show_header = true
+sidebar_left = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+
+[params]
+env = "production"
+title = "ExampleSite"
+description = "ExampleSite description"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "Favour Ojo"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/favourojo"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/favour-ojo-8415741b7/"
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+  [params.homeInfoParams]
+  Title = "Hi 👋"
+  Content = "Welcome to my website!"
