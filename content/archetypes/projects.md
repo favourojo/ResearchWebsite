@@ -18,9 +18,17 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
-description: "Here are the recent projects I have completed here at my time at Allegheny College"
+
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 ---
+
+[GatorConfig Project](https://github.com/cmpsc-481-s22-m1/GatorConfig)
+
+- A simple Python tool utilizing both a CLI and GUI approach to automate the generation of configuration files for GatorGrader. This tool is designed to assist educators in grading GitHub-based assignments for their computer science courses.
+
+[Cluster App](https://github.com/CMPSC-529-Allegheny-CS-Internship/Capstone-Project)
+
+-
