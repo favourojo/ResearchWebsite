@@ -31,4 +31,4 @@ ShowPostNavLinks: true
 
 [Cluster App](https://github.com/CMPSC-529-Allegheny-CS-Internship/Capstone-Project)
 
--
+- A mobile application that enables users to monitor ONTAP clusters, displays cluster health status, and receives notifications in case of an emergency regardless of physical location of the users.
