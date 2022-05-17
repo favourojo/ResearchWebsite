@@ -6,15 +6,12 @@ draft: false
 
 ## Description of Prototype
 
-```
 This prototype analyzes different aspects of crime inside the United States. In the program, users are able to import data sets from the Internet and create analysis about certain columns. The data set from this certain program displays the crime rate and the different crime instances from each county in the United States. Individuals can now make different hypothesis about the analysis made from the data and also create visualizations. These hypothesis can range from the notoriety of the community and individuals who inhabit each county in the United States.
-```
+
 
 ## Features
 
-```
 Easily analyzes crime data, shows visualization of analysis of data, such as graphs and plots
-```
 
 ## Installation requirements
 
@@ -25,9 +22,7 @@ RStudio
 
 ## How to run prototype
 
-```
 RStudio allows you to easily run the program in the console
-```
 
 ## References
 
