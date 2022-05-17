@@ -3,7 +3,6 @@ title: "Research Proposal"
 date: 2022-05-16T21:45:06-04:00
 draft: false
 ---
-# CS580S2022
 
 1. What is the area of your research in your proposed project idea? What is your specific
 proposed idea and why is it important? Motivate with references as relevant.
